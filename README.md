@@ -5,8 +5,8 @@ This repository contains code for core news analysis including news scraping, ex
 Open the notebooks directly in Google Colab:
 
 ### Intro to Basic Python and Colab
-- Introduction to Python 
-- Data Types to Basic News Scraping [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prospera-da/news-analysis-2/blob/main/notebook/1b%20Data%20Types%20to%20Basic%20News%20Scraping.ipynb)
+- Basic Python: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prospera-da/news-analysis-2/blob/main/notebook/1a.%20basic-python.ipynb)
+- Data Types to Basic News Scraping [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prospera-da/news-analysis-2/blob/main/notebook/1b.%20data%20types%20to%20basic%20news%20scraping.ipynb)
 
 ### Core News Analysis
 - News Watch Scraping: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/okkymabruri/news-watch/blob/main/notebook/run-newswatch-on-colab.ipynb)
