@@ -7,6 +7,7 @@ Open the notebooks directly in Google Colab:
 ### Intro to Basic Python and Colab
 - Basic Python: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prospera-da/news-analysis-2/blob/main/notebook/1a.%20basic-python.ipynb)
 - Data Types to Basic News Scraping [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prospera-da/news-analysis-2/blob/main/notebook/1b.%20data%20types%20to%20basic%20news%20scraping.ipynb)
+- Data Types to Basic News Scraping (with Answers) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prospera-da/news-analysis-2/blob/main/notebook/1b.%20data%20types%20to%20basic%20news%20scraping%20Answer.ipynb)
 
 Python Fundamentals Reference: [W3Schools Python Tutorial](https://www.w3schools.com/python/)
 
