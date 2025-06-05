@@ -15,5 +15,6 @@ Python Fundamentals Reference: [W3Schools Python Tutorial](https://www.w3schools
 - News Watch Scraping: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/okkymabruri/news-watch/blob/main/notebook/run-newswatch-on-colab.ipynb)
 - News Exploratory Data Analysis (EDA): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prospera-da/news-analysis-2/blob/main/notebook/3b.%20news-eda.ipynb)
 - News Sentiment Analysis: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prospera-da/news-analysis-2/blob/main/notebook/4.%20news-sentiment.ipynb)
+- News Sentiment Analysis (with Answers): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prospera-da/news-analysis-2/blob/main/notebook/4.%20news-sentiment_Answer.ipynb)
 <!-- - News Topic Clustering: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prospera-da/news-analysis-2/blob/main/notebook/5.%20news-topic-clustering.ipynb) -->
 
